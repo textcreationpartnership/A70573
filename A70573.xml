@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Melfort's letter to the Presbyterian-ministers in Scotland writ in His Majesty's name upon their address together with some remarks upon it.</title>
+            <title>Letter to the Presbyterian-ministers in Scotland</title>
+            <author>Melfort, John Drummond, Earl of, 1649-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70573</idno>
+            <idno type="STC">Wing M1641</idno>
+            <idno type="STC">ESTC R15002</idno>
+            <idno type="EEBO-CITATION">13344016</idno>
+            <idno type="OCLC">ocm 13344016</idno>
+            <idno type="VID">99152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 467:3 or 709:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Melfort's letter to the Presbyterian-ministers in Scotland writ in His Majesty's name upon their address together with some remarks upon it.</title>
+                  <title>Letter to the Presbyterian-ministers in Scotland</title>
+                  <author>Melfort, John Drummond, Earl of, 1649-1715.</author>
+                  <author>Burnet, Gilbert, 1643-1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Wing number B5781 cancelled in Wing (CD-ROM, 1996); replaced by Wing M1641.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Melfort, John Drummond, --  Earl of, 1649-1715. --  Letter to the Presbyterian-ministers in Scotland.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99152:1"/>
+            <pb n="1" facs="tcp:99152:1" rendition="simple:additions"/>
+            <head>THE EARLE of MELFORT's LETTER To the Presbyterian-Miniſters IN SCOTLAND, Writ in his <hi>Majeſty's</hi> Name upon their <hi>Addreſs;</hi> Together with ſome <hi>Remarks</hi> upon it.</head>
+            <floatingText type="letter">
+               <body>
+                  <head>The Earle of <hi>Melfort's Letter.</hi>
+                  </head>
+                  <opener>
+                     <salute>Gentlemen;</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Am commanded by his <hi>Majeſty,</hi> to ſigni<g ref="char:EOLhyphen"/>fy unto you his gracious acceptance of your <hi>Addreſs,</hi> that he is well ſatisfied with your <hi>Loyalty</hi> expreſſed therein; for the which he reſolves to perpetuate the favour, not on<g ref="char:EOLhyphen"/>ly during his own <hi>Reign,</hi> but alſo to lay down Ways for its <hi>Continuance,</hi> and that by <hi>ap<g ref="char:EOLhyphen"/>pointing</hi> in the next enſuing <hi>Parliament</hi> the taking off all <hi>Penal Statutes</hi> contrary to the <hi>Li<g ref="char:EOLhyphen"/>berty</hi> or <hi>Toleration</hi> granted by him.</p>
+                  <p>His <hi>Majeſty</hi> knows, that Enemies to <hi>Him,</hi> to <hi>You,</hi> and this <hi>Toleration,</hi> will be uſing all Endeavours to infringe the ſame; but as ever the Happineſs of his <hi>Subjects</hi> Standing in <hi>Li<g ref="char:EOLhyphen"/>berty of Conſcience,</hi> and the Security of their <hi>Properties</hi> (next the Glory of God) hath been his <hi>Majeſty's</hi> great end, ſo he intends to continue, if he have all ſutable Encouragement and Concurrence from you in your <hi>Doctrine</hi> and <hi>Practice;</hi> and therefore as he hath taken away the <hi>Proteſtant Penal Statutes</hi> lying on you, and herein has walk<g ref="char:EOLhyphen"/>ed contrary not only to other <hi>Catholick Kings,</hi> but alſo in a way different from <hi>Proteſtant Kings</hi> who have gone before him, whoſe Maxime was to undoe you, by <hi>Fining, Confining,</hi> and taking away your <hi>Eſtates,</hi> and to harraſs you in your <hi>Perſons, Liberties</hi> and <hi>Priviledges;</hi> ſo he expects a thankful acknowledgment from you, by making your <hi>Doctrine</hi> tend, to cauſe all his <hi>Subjects</hi> to walk <hi>obediently,</hi> and by your <hi>Practice</hi> walking ſo as shall be moſt pleaſing to his <hi>Majeſty,</hi> and the concurring with him for the removing theſe <hi>Penal Statutes:</hi> and he further expects that you continue your Prayers to God for his long and happy <hi>Reign,</hi> and for all Bleſſings on his <hi>Perſon</hi> and <hi>Government;</hi> and likewiſe that you look well to your <hi>Doctrine,</hi> and that your <hi>Example</hi> be influential: all theſe are his <hi>Majeſty's</hi> Commands.</p>
+                  <closer>
+                     <signed>Sic ſubſ. MELFORT.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="text">
+            <head>REMARKS.</head>
+            <p>
+               <hi>THe Secretary hand</hi> is known to al the <hi>Writing Maſters</hi> of the Town; but here is an Eſſay of the <hi>Secretary's Stile</hi> for the Maſters of our Lan<g ref="char:EOLhyphen"/>guage: This is an Age of Improvements, and Men that come very young into Imploy<g ref="char:EOLhyphen"/>ments, make commonly a great progreſs; therefore common things are not to be expe<g ref="char:EOLhyphen"/>cted here: it is true, ſome Roughneſſes in the
+<pb n="2" facs="tcp:99152:2"/>
+               <hi>Stile</hi> ſeem to intimate that the Writer could turn his <hi>Conſcience</hi> more eaſily than he can do his Pen, and that the one is a little ſtiffer and leſs compliant than the other. He tells the <hi>Addreſſers,</hi> that <hi>His Majeſty is well ſatisfied with their Loyalty contained in their Addreſs; for the which he reſolves to perpetuate the favour.</hi> It ap<g ref="char:EOLhyphen"/>pears that the <hi>Secretary Stile</hi> and the <hi>Notary Stile</hi> come nearer one another than was ge<g ref="char:EOLhyphen"/>nerally believed: <hi>For the which</hi> here, &amp; <hi>infringe the ſame</hi> afterwards, are beauties borrowed from the <hi>Notary Stile:</hi> the <hi>foreſaid</hi> is not much courſer. The King's <hi>perpetuating the Favour</hi> is no eaſy thing, unleſs he could firſt <hi>perpetuate</hi> himſelf. Now tho his Majeſty's Fame will be certainly <hi>immortal,</hi> yet to our great Regret his Perſon is <hi>mortal;</hi> ſo it is hard to conceive, how this <hi>perpetuity</hi> should be ſetled.</p>
+            <p>The Method here propoſed is a new Fi<g ref="char:EOLhyphen"/>gure of the <hi>Secretary Stile:</hi> which is the <hi>Appoin<g ref="char:EOLhyphen"/>ting in the next enſuing Parliament the taking off all Penal Laws.</hi> All former <hi>Secretaries</hi> uſed the modeſt Words of <hi>propoſing</hi> or <hi>recommen<g ref="char:EOLhyphen"/>ding;</hi> but he who in a former <hi>Eſſay</hi> of this <hi>Stile,</hi> told us of his <hi>Majeſty's Abſolute Power, to which all the Subjects are to obey without reſerve,</hi> furnishes us now with this <hi>new</hi> term of the <hi>King's appointing</hi> what shal be done in <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi> But what if after all, the <hi>Parliament</hi> proves ſo ſtubborn, as not to comply with this <hi>Appointment,</hi> I am afraid then the <hi>Perpe<g ref="char:EOLhyphen"/>tuity</hi> will be of a shrort continuance. He in the next place, mentions the <hi>Liberty or Tolera<g ref="char:EOLhyphen"/>tion granted by the King. Liberty</hi> is not ſo hard a Word, but that it might be underſtood without this Explanation <hi>or Toleration,</hi> unleſs the <hi>Secretary Stile</hi> either approaches to the <hi>Notary Stile</hi> in ſome nauſeous Repetitions, or that he would intimate by this, that all the <hi>Liberty</hi> that is left the Subjects is compre<g ref="char:EOLhyphen"/>hended in this <hi>Toleration.</hi> And indeed, af<g ref="char:EOLhyphen"/>ter <hi>Abſolute Power</hi> was once aſſerted, it was never fit to name <hi>Liberty</hi> without ſome re<g ref="char:EOLhyphen"/>ſtriction. After this comes a ſtately Period, <hi>The Enemies to him, to you, and to this Tolera<g ref="char:EOLhyphen"/>tion.</hi> Yet I should be ſorry if it were true; for I hope there are many <hi>Enemies to this To<g ref="char:EOLhyphen"/>leration,</hi> who are neither <hi>Enemies</hi> to the <hi>King,</hi> nor to theſe <hi>Addreſſers;</hi> and that on the contrary they are <hi>Enemies</hi> to it, becauſe they are the <hi>beſt Friends</hi> that both the <hi>King</hi> and the <hi>People</hi> have. It is now no ſecret, that tho' both the <hi>Prince</hi> and <hi>Princeſs</hi> of <hi>Orange</hi> are great Enemies to <hi>Perſecution,</hi> and in particular to all Rigour againſt the <hi>Preſbyterians,</hi> yet they are not ſatisfied with the way in which this <hi>Toleration</hi> is granted. But the reckoning of them as <hi>Enemies</hi> either to the <hi>King</hi> or the <hi>People,</hi> is one of the Figures of this <hi>Stile,</hi> that will hardly paſs: and ſome will not ſtick to ſay, that the Writer of this <hi>Letter,</hi> has with this dash of his Pen, declared more Men <hi>Enemies</hi> to the King, than ever he will be able to make <hi>Friends</hi> to him. He tells them next, that theſe <hi>Enemies</hi> will be <hi>uſing all endea<g ref="char:EOLhyphen"/>vours to infringe the ſame.</hi> This is alſo a ſtrong Expreſſion. We know the uſe of the <hi>Noun Infraction,</hi> but <hi>Infringe</hi> is borrowed from the <hi>Notaries;</hi> yet the plain ſenſe of this ſeems to be, that thoſe <hi>Enemies</hi> will diſturb the <hi>Mee<g ref="char:EOLhyphen"/>tings,</hi> of which I do not hear any of them have the leaſt thought, yet by a ſecret Figure of the <hi>Secretary Stile,</hi> perhaps this belongs to all thoſe who either think that the <hi>King</hi> can<g ref="char:EOLhyphen"/>not do it by Law, or that will not give their Vote to confirm it in <hi>Parliament:</hi> but I am not ſo well acquainted with all the Myſteries of this <hi>Stile,</hi> as to know its full depth.</p>
+            <p>There comes next a long period of 50 words, for I was at the pains to count them all, which ſeemed a little too prolix for ſo ſhort a <hi>letter,</hi> eſpecially in one that writes af<g ref="char:EOLhyphen"/>ter the <hi>French</hi> pattern. <hi>But as ever the Happineſs of his Subjects, Standing in Liberty of Conſcience, and the Security of their Properties, next the Glory of God, hath been his Majeſty's great End; So he Intends to continue, if he have all ſuteable Encouragement and Concurrence from you, in your Doctrine and Practice.</hi> The putting <hi>ever</hi> at the beginning of the Period, and at ſo great a Diſtance from that to which it be<g ref="char:EOLhyphen"/>longs, is a new beauty of <hi>Stile.</hi> And the <hi>Standing</hi> of this <hi>Happineſs,</hi> makes me re<g ref="char:EOLhyphen"/>flect on that which I hear a <hi>Scotch Preacher</hi>
+               <pb n="3" facs="tcp:99152:2"/>delivered in a <hi>Sermon,</hi> that he doubted this <hi>Liberty</hi> would prove but like a <hi>Standing Drink.</hi> The <hi>King's receiving ſuteable Encou<g ref="char:EOLhyphen"/>ragement from his Subjects,</hi> agrees ill with the height of <hi>Stile</hi> that went before, of <hi>appointing what the Parliament muſt do. Kings</hi> receive returns of <hi>Duty</hi> and <hi>Obedience</hi> from their <hi>Subjects;</hi> but hitherto <hi>Encouragement</hi> was a word uſed among Equals: the applying it to the <hi>King,</hi> is a new figure. A man not verſed in the <hi>Secretary Stile</hi> would have ex<g ref="char:EOLhyphen"/>preſſed this matter thus. <hi>His Majeſty has ever made the Happineſs of his Subjects, which con<g ref="char:EOLhyphen"/>ſiſts in Liberty of Conſcience, and the Security of Property, his great end, next to the Glory of God: and he intends to do ſo ſtill, if he receives all ſuteable returns from you in your Doctrine and practice.</hi> I have marked this the more parti<g ref="char:EOLhyphen"/>cularly, to make the difference between the <hi>Common</hi> and the <hi>Secretary Stile</hi> the more ſen<g ref="char:EOLhyphen"/>ſible. But what need is there of the <hi>Concur<g ref="char:EOLhyphen"/>rence of the Addreſſers,</hi> with the <hi>King,</hi> if he <hi>appoints the next Parliament to take off all the Penal Laws.</hi> Muſt we likewiſe believe that His Majeſty's Zeal for the <hi>Happineſs of his Sub<g ref="char:EOLhyphen"/>jects,</hi> depends on the Behaviour of Theſe <hi>Addreſſers:</hi> and on the <hi>Encouragement</hi> that he receives from them, ſo that he will not <hi>conti<g ref="char:EOLhyphen"/>nue</hi> it, unleſs they <hi>Encourage</hi> him in it. This is but an Incertain tenure, and not like to be <hi>perpetual.</hi> But after all the <hi>Secretary Stile</hi> is not the <hi>Royal Stile,</hi> ſo notwithſtanding this beautiful Period, we hope our Happineſs is more ſteady, than to turn upon the <hi>Encoura<g ref="char:EOLhyphen"/>gings</hi> of a few Men: otherwiſe if it is a <hi>ſtan<g ref="char:EOLhyphen"/>ding Happineſs</hi> yet it is a very tottering one. The <hi>Proteſtant Penal Statutes,</hi> is another of his Elegancies: for ſince all the <hi>Penal Laws</hi> as well thoſe againſt <hi>Papiſts,</hi> as thoſe againſt <hi>Diſſenters,</hi> were made by <hi>Proteſtant Parlia<g ref="char:EOLhyphen"/>ments,</hi> one does not ſee how fitly this Epithete comes in here; another would have worded this, thus, <hi>the Penal Statutes made againſt Proteſtants.</hi> But the <hi>new Stile</hi> has figures pe<g ref="char:EOLhyphen"/>culiar to it ſelf, that paſs in the <hi>Common Stile</hi> for <hi>Improprieties.</hi>
+            </p>
+            <p>This Noble <hi>Lord</hi> is not contented to raiſe His Majeſty's Glory above all other <hi>Catho<g ref="char:EOLhyphen"/>lick Kings,</hi> in this grant of <hi>Liberty or Tolera<g ref="char:EOLhyphen"/>tion,</hi> in which there is no competition to be made; for tho the Moſt <hi>Chriſtian King,</hi> who is the <hi>Eldeſt ſon of that Church,</hi> has indeed exe<g ref="char:EOLhyphen"/>cuted her <hi>Orders</hi> in their full extent of ſeve<g ref="char:EOLhyphen"/>rity, yet His Majeſty, who is but the <hi>Cadet</hi> in that <hi>Churche's</hi> Catalogue of honour, it ſeems does not think that he is yet ſo much behol<g ref="char:EOLhyphen"/>ding to his <hi>Mother</hi> as to gratify her by the Deſtruction of his People: yet I ſay, as if this were too little, the <hi>King's</hi> Glory is here carried farther, even above the <hi>Proteſtant Kings, who have gone before him: whoſe Maxime was to undo you, by Fining, Confining and ta<g ref="char:EOLhyphen"/>king away your Eſtates, and to harraſs you in your Perſons, Liberties and Priviledges.</hi> Here is an honour that is done the King's <hi>Anceſtors</hi> by one of his <hi>Secretaries,</hi> which is indeed new, and of his own Invention: the <hi>Proteſtant Kings</hi> can be no other than the Kings <hi>Brother, his Father, and his Grand father. Kings</hi> shut out Q. <hi>Eliſabeth,</hi> who might have been brought in if the more general term of <hi>Crowned heads</hi> had been made uſe of; but as the Writer has ordered it, the ſatyr falls ſingly on the King's <hi>Progenitors:</hi> for the <hi>Papers</hi> that were found in the <hi>Strong Box,</hi> will go near to put the late <hi>King</hi> out of the liſt of <hi>Proteſtant Kings:</hi> ſo that this Reproach lies wholly on the King's <hi>Father</hi> and his <hi>Grand-father.</hi> It is a little ſurpriſing, after all the Elo<g ref="char:EOLhyphen"/>quence that has been Imployed to raiſe the Character of the late <hi>Martyr</hi> to ſo high a pitch, that one of his Sons <hi>Secreta<g ref="char:EOLhyphen"/>ries</hi> should ſet it under his hand in a <hi>letter</hi> that he pretends is written by the <hi>King's</hi> Commands, <hi>that he made it a Maxime to undo his People.</hi> The Writer of this <hi>Letter</hi> should have avoided the mentioning of <hi>fines,</hi> ſince it is not ſo long, ſince both <hi>He</hi> and his <hi>Brother</hi> valued themſelves on a point that they carried in the <hi>Council of Scotland,</hi> that <hi>Husbands</hi> should be fined for their <hi>Wives</hi> not going to <hi>Church,</hi> tho it was not founded on any Law. And of all Men
+<pb n="4" facs="tcp:99152:3" rendition="simple:additions"/>living <hi>he</hi> ought to be the laſt that should ſpeak of <hi>the taking away Eſtates;</hi> who got a very fair one during the preſent <hi>Reign,</hi> by an <hi>Act of Parliament,</hi> that Attain<g ref="char:EOLhyphen"/>ted a <hi>Gentleman</hi> in a <hi>Method</hi> as new as his <hi>Stile</hi> is; Upon this ground, that two <hi>Pri<g ref="char:EOLhyphen"/>vy Councellours</hi> declared, they believed him <hi>guilty.</hi> He will hardly find among all the <hi>Maximes of thoſe Proteſtant Perſecu<g ref="char:EOLhyphen"/>ting Kings</hi> any one that will Juſtify this.</p>
+            <p>It ſeems the <hi>New Stile</hi> is not very Co<g ref="char:EOLhyphen"/>pious in Words, ſince <hi>Doctrine</hi> is <hi>three</hi> times repeated in ſo short a <hi>Letter:</hi> He tells them, that their <hi>Doctrine muſt tend to cauſe all the ſubjects to walk obediently;</hi> now by <hi>obediently</hi> in this <hi>Stile,</hi> is to <hi>obey the Ab<g ref="char:EOLhyphen"/>ſolute Power Without reſerve;</hi> for to <hi>obey ac<g ref="char:EOLhyphen"/>cording to Law,</hi> would paſs now for a Crime: this being then his meaning, it is probable that the <hi>Encouragements</hi> which are neceſſary to make His Majeſty conti<g ref="char:EOLhyphen"/>nue the happineſs of his Subjects, will not be ſo very great, as to Merit the <hi>perpetua<g ref="char:EOLhyphen"/>ting this favour.</hi> There is with this a hea<g ref="char:EOLhyphen"/>vy charge laid upon them as to their <hi>pra<g ref="char:EOLhyphen"/>ctice; that it muſt be ſuch as shall be moſt pleaſing to His Majeſty;</hi> for certainly that can only be by their turning <hi>Papiſts:</hi> ſince a <hi>Prince</hi> that is ſo zealous for his <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> as His Majeſty is, cannot be ſo well pleaſed with any other thing as with this. <hi>Their concurring with the King to re<g ref="char:EOLhyphen"/>move the Penal Laws,</hi> comes over again; for tho Repetitions are Impertinencies in the <hi>Common Stile,</hi> they are Flowers in the <hi>new one.</hi>
+            </p>
+            <p>In Concluſion, he tells them, that the <hi>King expects, that they will continue their prayers for him;</hi> yet this does not agree too well with a <hi>Catholick</hi> Zeal; for the pra<g ref="char:EOLhyphen"/>yers of <hi>Damned Hereticks</hi> cannot be worth the asking; for the third time he tells them to <hi>look well to their Doctrine:</hi> now this is a little ambiguous; for it may ei<g ref="char:EOLhyphen"/>ther ſignify, that they should ſtudy the Controverſies well, ſo as to be able to defend their Doctrine ſolidly, or that they should ſo mince it, that nothing may fall from them in their <hi>Sermons</hi> againſt <hi>Po<g ref="char:EOLhyphen"/>pery;</hi> this will be indeed a <hi>looking to their Doctrine;</hi> but I do not know whether it will be thought a <hi>looking well to it or not.</hi> He adds, <hi>that their Example be Influential:</hi> I confeſs this hard new Word frighted me: I ſuppoſe the meaning of it is, that <hi>their practice may be ſuch as that it may have an Influence on others:</hi> yet there are both good and bad Influences, a good Influence will be the animating the people to a Zeal for their <hi>Religion;</hi> and a <hi>bad one</hi> will be the ſlackning and ſofning of that Zeal. A little more Clearneſs here had not been amiſs.</p>
+            <p>As for the laſt Words of this Letter; <hi>that all theſe are his Majeſty's Commands;</hi> it is very hard for me to bring my ſelf to believe them. For certainly he has more Piety for the Memory of the <hi>late Martyr,</hi> and more regard both to <hi>himſelf,</hi> to his <hi>children,</hi> and to his <hi>people,</hi> than to have ever given any ſuch commands.</p>
+            <p>In order to the communicating this Piece of Elegance to the World, I wiſh the Tranſlating it into <hi>French</hi> were recom<g ref="char:EOLhyphen"/>mended to Mr. <hi>d'Albeville:</hi> that it may appear whether the <hi>Secretary Stile</hi> will look better in his <hi>Irish French,</hi> than it does now in the <hi>Scotch English</hi> of him who pen<g ref="char:EOLhyphen"/>ned it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99152:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
